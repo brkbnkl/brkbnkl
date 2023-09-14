@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-
-<body>
     <h1 align="center">Hi 👋, I'm Berk Benkel</h1>
     <h3 align="center">I am a software student </h3>
     <img align="right" alt="Coding" width="400"
@@ -60,7 +50,3 @@
             src="https://github-readme-stats.vercel.app/api?username=brkbnkl&show_icons=true&locale=en" alt="brkbnkl" />
     </p>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brkbnkl&" alt="brkbnkl" /></p>
-
-</body>
-
-</html>
