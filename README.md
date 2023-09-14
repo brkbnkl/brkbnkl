@@ -21,7 +21,8 @@
 <a href="https://www.hackerrank.com/brkbnkl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="brkbnkl" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/brkbnkl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="brkbnkl" height="30" width="40" /></a>
 </p>
-
+<br>
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brkbnkl&show_icons=true&locale=en&layout=compact" alt="brkbnkl" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brkbnkl&show_icons=true&locale=en" alt="brkbnkl" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brkbnkl&" alt="brkbnkl" /></p>
