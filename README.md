@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brkbnkl&label=Profile%20views&color=0e75b6&style=flat" alt="brkbnkl" /> </p>
 
-- 🌱 I’m currently learning **Java,Python,Frameworks**
+- 🌱 I’m currently learning **Java,Javascript,Frameworks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/brkbnkl](https://github.com/brkbnkl)
 
