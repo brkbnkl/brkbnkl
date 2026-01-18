@@ -58,13 +58,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brkbnkl&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brkbnkl&show_icons=true&theme=dark&rank_icon=github&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brkbnkl&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brkbnkl&layout=compact&theme=dark&langs_count=6&cache_seconds=86400" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brkbnkl&layout=compact&theme=dark" />
-</p>
